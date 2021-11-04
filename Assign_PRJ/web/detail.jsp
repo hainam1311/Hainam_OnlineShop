@@ -45,7 +45,7 @@
                 <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-container-style u-expanded-width u-product u-white u-product-1">
 
                     <div class="u-container-layout u-container-layout-1" style="padding-bottom: 5%; background: transparent;">
-                        <img src="<%= p.getImg()%>" alt="" class="u-image u-image-default u-product-control u-image-1" style="width: 30%; height: 50% display: flex;">
+                        <img src="<%= p.getImg()%>" alt="" class="u-image u-image-default u-product-control u-image-1" style="width: 30%; height: 50%; display: flex;">
                         <div class="u-align-center u-container-style u-grey-5 u-group u-shape-rectangle u-group-1">
                             <div class="u-container-layout u-container-layout-2">
                                 <div class="u-product-control u-product-price u-product-price-1">
